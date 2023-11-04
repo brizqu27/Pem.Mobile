@@ -1,0 +1,54 @@
+name: nama_aplikasi
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.1.3 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  google_fonts: ^6.1.0
+  get: 4.6.6
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  assets: 
+    - assets/page-1/images/vector.png
+    - assets/page-1/images/rectangle-9.png
+    - assets/page-1/images/rectangle-15.png
+    - assets/page-1/images/iuy-2.png
+    - assets/page-1/images/iconamoon-profile-fill.png
+    - assets/page-1/images/fluent-list-24-filled.png
+    - assets/page-1/images/fluent-cart-16-filled.png
+    - assets/page-1/images/el-shopping-cart-sign.png
+    - assets/page-1/images/fluent-cart-16-filled-nFs.png
+    - assets/page-1/images/feat-1-1.png
+    - assets/page-1/images/vector-mE9.png
+    - assets/page-1/images/iuy-2-ov9.png
+    - assets/page-1/images/fluent-list-24-filled-6kh.png
+    - assets/page-1/images/el-shopping-cart-sign-8c1.png
+    - assets/page-1/images/material-symbols-screen-search-desktop.png
+    - assets/page-1/images/df-1.png
+    - assets/page-1/images/material-symbols-screen-search-desktop-pmP.png
+    - assets/page-1/images/rectangle-12.png
+    - assets/page-1/images/iconamoon-profile-fill-uPX.png
+    - assets/page-1/images/el-shopping-cart-sign-MBX.png
+    - assets/page-1/images/el-shopping-cart-sign-oVs.png
+    - assets/page-1/images/rectangle-6.png
+    - assets/page-1/images/profile.jpg
+    - assets/page-1/images/bgp.jpg
+    - assets/page-1/images/testt.jpg
+
+fonts:
+  - family: Carter
+    fonts: 
+      - assets: font/carter/CarterOne-Regular.ttf
+
+
+uses-material-design: true
